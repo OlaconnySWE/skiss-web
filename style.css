@@ -1,0 +1,25 @@
+header{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+body{
+
+    background-color: #211612;
+}
+.vänster-header{
+display: flex;
+flex-direction: column;
+}
+.headertext{
+color: #F4F3EF; 
+}
+
+.logo{
+max-width: 356px;
+
+}
+.navigation a{
+color: #F4F3EF;
+
+}
